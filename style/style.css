@@ -1,0 +1,40 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+p{
+  font-size: 20px;
+  font-family: Roboto;
+}
+.canvas_field{
+  width: 900px;
+  margin-left: 20%;
+  margin-top: 10%;
+}
+#timer_field{
+  float: right;
+}
+#fruitsCounter{
+  float: left;
+}
+#nickname{
+  text-align: center;
+}
+.login_form{
+  max-width: 100px;
+  margin-left: 40%;
+  margin-top: 20%;
+}
+.registrField{
+  width: 200px;
+  height: 30px;
+  border: 3px solid #000000;
+  border-radius: 20px;
+  padding: 5px;
+  background: #D9A14F;
+}
+#sumbitButton{
+  margin-left: 55%;
+  margin-top: 10%;
+  width: 100px;
+}
