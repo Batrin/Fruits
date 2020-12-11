@@ -1,0 +1,49 @@
+body{
+  background: #AAAEFA;
+}
+.main_form{
+  width: 30%;
+  height: 400px;
+  background-color: white;
+  margin-left: 35%;
+  margin-top: 15%;
+  border-radius: 40px;
+}
+.textOnMainForm{
+  margin-top: 5%;
+  text-align: center;
+}
+.mainFormButton{
+  border-radius: 10px;
+  margin-left:20%;
+  margin-top: 10%;
+}
+.registrationForm{
+  border-radius: 20px;
+  margin-left: 40%;
+  margin-top: 10%;
+  background-color: white;
+  width: 20%;
+  height: 300px;
+}
+.registField{
+  width: 90%;
+  height: 15%;
+  border-radius: 10px;
+  border: 1px solid black;
+  margin-left: 3%;
+  margin-top: 5%;
+}
+.registFieldButton{
+  width: 70%;
+  height: 15%;
+  margin-left: 15%;
+  margin-top: 7%;
+  border-radius: 10px;
+  border: 1px solid black;
+}
+.regist{
+  width: 100%;
+  text-align: center;
+  
+}
